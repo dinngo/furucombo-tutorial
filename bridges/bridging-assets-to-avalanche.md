@@ -50,6 +50,6 @@ This is how you can bridge to Avalanche to use [Furucombo](https://furucombo.app
 
 If you experience issues that are not covered in this guide, please reach out to the Furucombo team directly via discord.
 
-Website: [https://go.furucombo.app/EjKJD](https://go.furucombo.app/EjKJD)\
-Twitter: [https://go.furucombo.app/ouaFR](https://go.furucombo.app/ouaFR)\
-Discord: [https://go.furucombo.app/DJ9XF](https://go.furucombo.app/DJ9XF)
+* Discord: [discord.furucombo.app](https://discord.furucombo.app/)
+* Twitter: [@furucombo](https://twitter.com/furucombo)
+* Recommend Read: [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)

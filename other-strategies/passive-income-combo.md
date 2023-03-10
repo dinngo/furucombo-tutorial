@@ -4,6 +4,14 @@
 
 In this article, we will walk you through how to earn some passive income in the DeFi world. There are many strategies to make passive income, including lending, staking, provide liquidity, mining, lottery pool, etc. The easiest way and the closest thing to “set and forget” approach is simply by holding interest-bearing tokens.
 
+## Content
+
+* [What are interest-bearing tokens?](passive-income-combo.md#what-are-interest-bearing-tokens)
+* [Compound’s cTokens](passive-income-combo.md#compounds-ctokens)
+* [Aave’s aTokens](passive-income-combo.md#aaves-atokens)
+* [How to get some interest-bearing tokens](passive-income-combo.md#how-to-get-some-interest-bearing-tokens)
+* [Step by step guide](passive-income-combo.md#step-by-step-guide)
+
 ## What are interest-bearing tokens?
 
 Interest-bearing tokens are representations of the underlying asset that earn interest. When users deposit/supply an asset to lending protocols, they receive interest-bearing tokens in exchange. Just like a receipt, which you can later on redeem your deposits back. These tokens accrue interest every Ethereum block (\~15 seconds) and can be transferred to anyone. Whoever holds these interest-bearing tokens can redeem them for the principal plus interest at any time.
@@ -39,7 +47,7 @@ For example, you see APY for SNX on Aave and WBTC on Compound are very attractiv
 
 You can complete all four steps on Furucombo, saving you steps from visiting multiple webpages.
 
-## Step by step
+## Step by step guide
 
 Below we will guide you step by step to complete this process — turning 100DAI into a basket of interest-bearing tokens using Furucombo:
 

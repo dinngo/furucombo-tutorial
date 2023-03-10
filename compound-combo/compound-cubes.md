@@ -12,9 +12,9 @@ Here we would like to recap the most used Compound combos in 2020, introduce the
 
 ## Content:
 
-* ****[**Most used Compound combos in 2020**](compound-cubes.md#most-used-compound-combos-in-2020)****
-* ****[**What are Compound smart cubes?**](compound-cubes.md#what-are-compound-smart-cubes)****
-* ****[**New Compound combos with smart cubes**](compound-cubes.md#new-compound-combos-with-smart-cubes)****
+* [Most used Compound combos in 2020](compound-cubes.md#most-used-compound-combos-in-2020)
+* [What are Compound smart cubes?](compound-cubes.md#what-are-compound-smart-cubes)
+* [New Compound combos with smart cubes](compound-cubes.md#new-compound-combos-with-smart-cubes)
 
 ## Most used Compound combos in 2020
 
@@ -98,4 +98,4 @@ If you experience issues that are not covered in this guide, please reach out to
 
 * Discord: [discord.furucombo.app](https://discord.furucombo.app/)
 * Twitter: [@furucombo](https://twitter.com/furucombo)
-* Recommend Read: [Beginner’s guide to Furucombo](https://medium.com/furucombo/beginners-guide-to-furucombo-747862e7ef55)\
+* Recommend Read: [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)\

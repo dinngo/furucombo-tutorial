@@ -4,6 +4,17 @@
 
 This tutorial will guide you through the process of using Furucombo Invest to help you manage your wealth! This will be a very easy to use step by step guide where you can start earning rewards in just minutes. For this guide, we will be showing you how to invest in the Auto-Farming pools on Polygon. The Ethereum network will also have Furucombo Invest, but will not have the Auto-Farming pools available upon launch.
 
+## Content
+
+* [Video Tutorial](invest-tutorial.md#video-tutorial)
+* [Basics](invest-tutorial.md#basics)
+* [Setup Smart Wallet](invest-tutorial.md#setup-smart-wallet)
+* [Fund Smart Wallet](invest-tutorial.md#fund-smart-wallet)
+  * [Explore Investment Opportunities](invest-tutorial.md#explore-investment-opportunities)
+  * [Deposit to Pool or Farm](invest-tutorial.md#deposit-to-pool-or-farm)
+  * [Withdraw from Pool or Farm](invest-tutorial.md#withdraw-from-pool-or-farm)
+  * [Return Funds to Account](invest-tutorial.md#return-funds-to-account)
+
 ## Video Tutorial
 
 If you are more of a visual learner, feel free to watch our community made tutorial instead from user [Dosh](https://twitter.com/D0SHTech):
@@ -136,11 +147,11 @@ To return your funds to your account from your smart wallet, from the dashboard 
 
 <figure><img src="https://cdn-images-1.medium.com/max/1440/0*xXREYXniCnLQ2Wdn" alt=""><figcaption></figcaption></figure>
 
-#### Contact us
+## Contact us
 
 If you experience issues that are not covered in this guide, please reach out to the Furucombo team directly via discord.
 
 * Furucombo: [https://furucombo.app/](https://furucombo.app/)
 * Twitter: [@furucombo](https://twitter.com/furucombo)
 * Recommend Read:
-* [Beginner’s guide to Furucombo](https://medium.com/furucombo/beginners-guide-to-furucombo-747862e7ef55)\
+* [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)\

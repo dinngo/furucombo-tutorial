@@ -85,7 +85,7 @@ If you experience issues that are not covered in this guide, please reach out to
 * Furucombo: [https://furucombo.app/](https://furucombo.app/)
 * Twitter: [@furucombo](https://twitter.com/furucombo)
 * Recommend Read:
-* [Beginner’s guide to Furucombo](https://medium.com/furucombo/beginners-guide-to-furucombo-747862e7ef55)
+* [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)
 * [Announcement of the Furucombo and Polygon Collaboration](https://medium.com/furucombo/announcing-furucombo-and-polygon-collaboration-41581fe7c62a)
 
 \

@@ -152,6 +152,6 @@ If you experience issues that are not covered in this guide, please reach out to
 
 * Discord: [discord.furucombo.app](https://discord.furucombo.app/)
 * Twitter: [@furucombo](https://twitter.com/furucombo)
-* Recommend Read: [Beginner’s guide to Furucombo](https://medium.com/furucombo/beginners-guide-to-furucombo-747862e7ef55)
+* Recommend Read: [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)
 
 \

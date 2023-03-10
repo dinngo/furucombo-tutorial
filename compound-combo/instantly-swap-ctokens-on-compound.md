@@ -4,9 +4,18 @@
 
 Passive income is the money that you earn in a way that requires little to no effort. In the DeFi world, the easiest way to earn passive income is by supplying/depositing an asset to lending protocols to earn interests in return.
 
-In our previous article, [Passive income combo](https://medium.com/furucombo/tutorial-passive-income-combo-part-1-662a1a0d98f3), we introduced you what interest-bearing tokens are and how to get some of them to earn passive income. In this article, we will walk you through further how to swap between Compound cTokens to get higher APY in return.
+In our previous article, [Passive income combo](https://tutorial.furucombo.app/other-strategies/passive-income-combo), we introduced you what interest-bearing tokens are and how to get some of them to earn passive income. In this article, we will walk you through further how to swap between Compound cTokens to get higher APY in return.
 
 <figure><img src="https://cdn-images-1.medium.com/max/1440/1*JM8PtcHBI7W3Vnf5P5NpIQ.png" alt=""><figcaption><p>Compound supply markets</p></figcaption></figure>
+
+## Content
+
+* [How to swap between cTokens?](instantly-swap-ctokens-on-compound.md#how-to-swap-between-ctokens)
+* [No-debt cToken swapping](instantly-swap-ctokens-on-compound.md#no-debt-ctoken-swapping)
+  * [Basic level: Build combo manually](instantly-swap-ctokens-on-compound.md#1-basic-level-build-combo-manually)
+  * [Pro Level: Instant swap panel](instantly-swap-ctokens-on-compound.md#2-pro-level-instant-swap-panel)
+* [cToken swapping with debts](instantly-swap-ctokens-on-compound.md#ctoken-swapping-with-debts...)
+  * [God Level: Compound Collateral Swap](instantly-swap-ctokens-on-compound.md#3-god-level-compound-collateral-swap)
 
 ## How to swap between cTokens?
 
@@ -81,12 +90,12 @@ If you have read all the way through here, you’re officially a combo master. F
 
 <figure><img src="https://cdn-images-1.medium.com/max/1440/1*rqJS5Y9tPGUFZxCzib5qbg.gif" alt=""><figcaption></figcaption></figure>
 
-#### Contact us
+## Contact us
 
 If you experience issues that are not covered in this guide, please reach out to the team directly through telegram.
 
 * Discord: [discord.furucombo.app](https://discord.furucombo.app/)
 * Twitter: [@furucombo](https://twitter.com/furucombo)
-* Recommend Read: [Beginner’s guide to Furucombo](https://medium.com/furucombo/beginners-guide-to-furucombo-747862e7ef55)
+* Recommend Read: [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)
 
 \

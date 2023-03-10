@@ -2,6 +2,16 @@
 
 <figure><img src="https://cdn-images-1.medium.com/max/1440/0*jrqJPpsrokb_IDFf" alt=""><figcaption></figcaption></figure>
 
+## **Content**
+
+* [Introduction](fund-tutorial-for-managers.md#introduction)
+* [Creating a Fund](fund-tutorial-for-managers.md#creating-a-fund)
+  * [Fund Interface](fund-tutorial-for-managers.md#fund-interface)
+  * [Dashboard](fund-tutorial-for-managers.md#dashboard)
+  * [Strategy](fund-tutorial-for-managers.md#strategy)
+  * [Settings](fund-tutorial-for-managers.md#settings)
+* [Furucombo Fees](fund-tutorial-for-managers.md#furucombo-fees)
+
 ## **Introduction**
 
 With the long-awaited [Fund system](https://medium.com/furucombo/introduction-to-furucombo-funds-861926f698ee) launch, we have pushed the opportunity for investment to the next level. Furucombo Fund is an investment platform that matches fund managers and investors on the Polygon network.
@@ -131,8 +141,6 @@ About:
 * Investors: It shows the status of your investors — address, share amount and percentage.
 * Deposits: It shows all the deposit history of your fund.
 
-***
-
 ### **Strategy**
 
 On the strategy page, you can create a new strategy as well as see all the strategies that you executed. To make a new trade, just hit the ‘New’ button on the upper right of the screen, and it will lead you to a specific create page just for your fund. The page is almost the same as the original create page except for the initial fund section. It’ll show you the value of tokens you’ll receive, and how many cash reserves will remain after using the strategy.
@@ -174,7 +182,7 @@ Performance Fee: Refers to the fees you can collect from the profit you collect.
 
 ***
 
-### **Furucombo Fees**
+## **Furucombo Fees**
 
 Furucombo will also charge a 0.2% fund fee on each of the transactions performed by the fund manager based on the AUM. For example, if a fund manager performs a swap, and has $10,000 AUM, a 0.2% fee on the $10k AUM will be charged for performing that swap.
 
@@ -182,12 +190,11 @@ Furucombo will also charge a 0.2% fund fee on each of the transactions performed
 
 > 🎉 Bravo! You now have the basics to understanding Furucombo’s Fund system! Once you create your own fund, don’t forget to share your fund on Twitter to gain exposure! 🎉
 
-***
-
-**Contact us:**
+## Contact us
 
 If you experience issues that are not covered in this guide, please reach out to the Furucombo team directly via discord.
 
-Website: [https://go.furucombo.app/EjKJD](https://go.furucombo.app/EjKJD)\
-Twitter: [https://go.furucombo.app/ouaFR](https://go.furucombo.app/ouaFR)\
-Discord: [https://go.furucombo.app/DJ9XF](https://go.furucombo.app/DJ9XF)
+* Furucombo: [https://furucombo.app/](https://furucombo.app/)
+* Twitter: [@furucombo](https://twitter.com/furucombo)
+* Recommend Read:
+* [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)

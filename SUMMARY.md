@@ -9,6 +9,10 @@
 * [Flashloan Combo](flash-loan/flashloan-combo.md)
 * [Troubleshooting Flash Loans](flash-loan/troubleshooting-flash-loans.md)
 
+## Other strategies
+
+* [Passive income combo](other-strategies/passive-income-combo.md)
+
 ## Maker combo
 
 * [Boost Maker vault](maker-combo/boost-maker-vault.md)
@@ -17,10 +21,6 @@
 
 * [Instantly Swap cTokens on Compound](compound-combo/instantly-swap-ctokens-on-compound.md)
 * [Compound Cubes](compound-combo/compound-cubes.md)
-
-## Other strategies
-
-* [Passive income combo](other-strategies/passive-income-combo.md)
 
 ## Bridges
 

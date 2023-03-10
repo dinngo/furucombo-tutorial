@@ -10,9 +10,14 @@ description: >-
 
 Welcome to Furucombo. In this guide, we’ll walk through all the basics you need to know to successfully create a combo. Before we begin, let’s talk about “what is Furucombo?”.
 
-Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. Just like building your own DeFi legos, but you don’t need to know how to code. It visualizes complex DeFi protocols into cubes. Users just need to enter inputs/outputs and set up orders of the cubes (we call this a “combo”), then Furucombo will package all the cubes into one transaction and send out. This is a great tool for people who want to perform actions across different protocols, especially those who want to leverage flashloan. (We cover flashloan in the article [here](https://medium.com/furucombo/create-flashloan-combo-on-furucombo-c7c3b23267f0).)
+Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. Just like building your own DeFi legos, but you don’t need to know how to code. It visualizes complex DeFi protocols into cubes. Users just need to enter inputs/outputs and set up orders of the cubes (we call this a “combo”), then Furucombo will package all the cubes into one transaction and send out. This is a great tool for people who want to perform actions across different protocols, especially those who want to leverage flashloan. (We cover flashloan in the article [here](https://tutorial.furucombo.app/flash-loan/flashloan-combo).)
 
 Now you get the idea of what Furucombo is, let’s get started!
+
+## Content
+
+* [Furucombo Interface Guide](./#furucombo-interface-guide)
+* [Step by step guide](./#step-by-step-guide)
 
 ## Furucombo Interface Guide
 
@@ -39,7 +44,7 @@ On the left, you see a “_**You will receive**_” section. These are the funds
 <pre data-overflow="wrap"><code><strong>👩🏻‍🏫 Just think that “Initial Funds” is how much you put and "You will receive" is how much you get at the end.
 </strong></code></pre>
 
-## Step by step
+## Step by step guide
 
 ### **Step 1: Setting up cubes ⚙️**
 
@@ -89,11 +94,11 @@ We’ve also made a video tutorial of this guide. Check it out 👇🏻
 Furucombo Quick Start Guide
 {% endembed %}
 
-#### Contact Us
+## Contact Us
 
 If you experience issues that are not covered in this guide, please reach out to the team directly through telegram.
 
 * Discord: [discord.furucombo.app](https://discord.furucombo.app/)
 * Twitter: [@furucombo](https://twitter.com/furucombo)
 
-👉🏻 Coming up next, we cover [how to build a combo leveraging flashloan.](https://medium.com/furucombo/create-flashloan-combo-on-furucombo-c7c3b23267f0?source=collection\_home---4------1-----------------------)
+👉🏻 Coming up next, we cover [how to build a combo leveraging flashloan](https://tutorial.furucombo.app/flash-loan/flashloan-combo).

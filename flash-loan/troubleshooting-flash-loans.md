@@ -1,8 +1,8 @@
 # Troubleshooting Flash Loans
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-To learn more about flash loans, and how to appropriately set up a flash loan combo, visit our [tutorial](https://docs.furucombo.app/using-furucombo-1/tutorials/flashloan-combo) first before proceeding
+To learn more about flash loans, and how to appropriately set up a flash loan combo, visit our [tutorial](https://tutorial.furucombo.app/flash-loan/flashloan-combo) first before proceeding
 
 This guide is for troubleshooting flash loan errors, such as:
 
@@ -67,7 +67,7 @@ This guide is for troubleshooting flash loan errors, such as:
 ### **Other Problems**
 
 1. Typically flash loans are also paid back in the denomination they are borrowed in. For example, if you borrow DAI, ensure that your flash loan is also paying back in DAI
-2. If using the ‘repay’ or ‘borrow’ functions inside of a flash loan, ensure that an ‘add funds’ or ‘return funds’ cubes are inserted in the flash loan to update the smart contract on the new collateral. You can read more about how these cubes work [here](https://docs.furucombo.app/using-furucombo-1/combo-page#utility-cubes) (or also in the top left you can monitor how these cubes affect the transaction). Also keep in mind [Aave’s risk parameters](https://docs.aave.com/risk/asset-risk/risk-parameters) if you are using these functions.
+2. If using the ‘repay’ or ‘borrow’ functions inside of a flash loan, ensure that an ‘add funds’ or ‘return funds’ cubes are inserted in the flash loan to update the smart contract on the new collateral. You can read more about how these cubes work [here](https://docs.furucombo.app/porject-mode/combo-page/utility-cube-faq#what-is-add-funds) (or also in the top left you can monitor how these cubes affect the transaction). Also keep in mind [Aave’s risk parameters](https://docs.aave.com/risk/asset-risk/risk-parameters) if you are using these functions.
 
 
 

@@ -4,6 +4,14 @@
 
 In this article, we will walk you through how to open a Maker vault and a strategy on how to increase a vault collateral’s exposure to multiply the potential return. For this strategy, you make a profit when the collateral’s price surges. On the other side, and this is very important, you might get liquidated when the price goes down.
 
+## Content
+
+* [What is Maker vault, and how to open one?](boost-maker-vault.md#what-is-maker-vault-and-how-to-open-one)
+* [What is boost strategy?](boost-maker-vault.md#what-is-boost-strategy)
+  * [Basic level: Build manually](boost-maker-vault.md#1-basic-level-build-manually)
+  * [Advanced Level: Build Manually with Flashloan](boost-maker-vault.md#2-advanced-level-build-manually-with-flashloan)
+  * [Pro Level: Skip building](boost-maker-vault.md#3-pro-level-skip-building)
+
 ## What is Maker vault, and how to open one?
 
 The Maker Vault is a core component of the Maker Protocol, which facilitates the generation of DAI against locked up collateral. All DAI in circulation are created by Vaults. Users create DAI by generating it against their collateral and in-turn destroy DAI when repaying their generated DAI balance.
@@ -76,12 +84,12 @@ Step 3: Approve & Send the transaction
 
 <figure><img src="https://cdn-images-1.medium.com/max/1440/1*fdpwHpSa-wOpSY88Vy14BQ.gif" alt=""><figcaption></figcaption></figure>
 
-#### Contact us
+## Contact us
 
 If you experience issues that are not covered in this guide, please reach out to the team directly through telegram.
 
 * Discord: [discord.furucombo.app](https://discord.furucombo.app/)
 * Twitter: [@furucombo](https://twitter.com/furucombo)
-* Recommend Read: [Beginner’s guide to Furucombo](https://medium.com/furucombo/beginners-guide-to-furucombo-747862e7ef55)
+* Recommend Read: [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)
 
 \

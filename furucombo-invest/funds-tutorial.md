@@ -6,6 +6,12 @@ Furucombo is excited to announce our much-anticipated fund management system! Fu
 
 To learn more about how to use Furucombo Invest, including how to make a deposit, and how to determine the details of a fund, follow the steps below.
 
+## Content
+
+* [How to Deposit Funds in Invest](funds-tutorial.md#how-to-deposit-funds-in-invest)
+* [Fund Details](funds-tutorial.md#fund-details)
+* [Furucombo Fees](funds-tutorial.md#furucombo-fees)
+
 ## **How to Deposit Funds in Invest**
 
 <figure><img src="https://cdn-images-1.medium.com/max/1440/0*sxTvxY0D2hKKzm8D" alt=""><figcaption></figcaption></figure>
@@ -32,7 +38,7 @@ The investment opportunities will then be listed below. You can choose to sort t
 
 Once deposited, you will see your deposits on the top of the page above the other Funds under the category labeled ‘Your Investments’. It’s as easy as that to invest in a fund.
 
-### **Fund Details**
+## **Fund Details**
 
 One important thing to check before investing in a fund, are the details behind it and the details of the fund manager. You will want to make sure that the fund manager is reputable, and that the fund investments are within your risk tolerance. Some funds will have riskier assets than others. Additionally, some fund managers have different management or performance fees. This fees will reduce the opportunity to get a higher return on investment and also must be considered.
 
@@ -99,16 +105,17 @@ This section shows the addresses that have invested in the fund, the share token
 * About — Deposits: This section shows the date an investor made a deposit into the fund, the investor address, the transaction hash of the deposit in the fund, the share token amount in the fund, the total amount deposited in $USDC, and the action taken (deposit or withdraw).
 * Strategy — History: Shows the history of the trades made by the fund manager.
 
-#### **Furucombo Fees:**
+## **Furucombo Fees**
 
 Furucombo will also charge the fund a 0.2% fund fee on each of the transactions performed by the fund manager based on the AUM. For example, if a fund manager performs a swap, and has $10,000 AUM, a 0.2% fee on the $10k AUM will be charged for performing that swap. The fee does not apply to the volume of the transaction.
 
 These are the details on Furucombo’s fund system. This guide will give you the information you need to know in order to invest.
 
-***
+## Contact us
 
-If you have any further questions or concerns, you can join us on our social media below:
+If you experience issues that are not covered in this guide, please reach out to the Furucombo team directly via discord.
 
-* Website: [https://go.furucombo.app/rMoHU](https://go.furucombo.app/rMoHU)
-* Twitter: [https://go.furucombo.app/yYTD7](https://go.furucombo.app/yYTD7)
-* Discord: [https://go.furucombo.app/Discord](https://go.furucombo.app/KxgxE)
+* Furucombo: [https://furucombo.app/](https://furucombo.app/)
+* Twitter: [@furucombo](https://twitter.com/furucombo)
+* Recommend Read:
+* [Beginner’s guide to Furucombo](https://tutorial.furucombo.app/getting-started/beginners-guide)
